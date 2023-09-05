@@ -1,6 +1,4 @@
 /**
- * =================================================================== 
- *  ------------------------------------------------------------------
  *  TOC:
  *  01. webfonts and iconfonts
  *  02. base style overrides
@@ -19,17 +17,12 @@
  *  15. services
  *  16. stats
  *  17. contact
- *  18. footer
- *
- * =================================================================== 
+ *  18. footer 
  */
 
 
 /** 
- * ===================================================================
  * 01. webfonts and iconfonts - (_document-setup.scss)
- *
- * ------------------------------------------------------------------- 
  */
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
@@ -37,10 +30,7 @@
 
 
 /** 
- * ===================================================================
  * 02. base style overrides - (_document-setup.scss)
- *
- * ------------------------------------------------------------------- 
  */
 html {
 	font-size: 10px;
@@ -75,10 +65,9 @@ body {
 
 /**
  * links - (_document-setup.scss)
- * -------------------------------------------------------------------
  */
 a, a:visited {
-	color: #000000;
+	color: #282dcd;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -86,15 +75,13 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #FF0077;
+	color: #378e9f;
 	outline: 0;
 }
 
 /** 
- * ===================================================================
  * 03. typography & general theme styles - (_document-setup.scss)
  *
- * ------------------------------------------------------------------- 
  */
 h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	font-family: "poppins-semibold", sans-serif;
