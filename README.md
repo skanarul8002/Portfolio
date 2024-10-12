@@ -47,6 +47,20 @@ If you're new to GitHub and Hacktoberfest, you can check out these resources to 
 - [How to Create a Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 - [Hacktoberfest Official Website](https://hacktoberfest.com)
 
+## ⭐ Eligibility Criteria 🚫
+
+- **You must star ⭐ the repository first** before contributing.
+- **⚠️ Duplicate issues will not be accepted.**
+- **Star and Fork the Repository**:
+  - [Portfolio Website Repository](https://github.com/skanarul8002/Portfolio)
+- **Contributions must be in HTML, CSS, or JavaScript** only.
+- **Follow best practices** for clean and maintainable code.
+- **Properly comment your code** to improve readability.
+- **Ensure mobile responsiveness** in your contributions.
+- **Validate HTML and CSS** using appropriate validation tools before submitting.
+- **Avoid excessive use of third-party libraries** unless necessary.
+- **All pull requests must pass code review** and meet repository standards.
+
 ## Show Your Support
 
 If you find this repository useful, please give it a ⭐! Contributions of all kinds are welcome, and every bit helps improve this project.
