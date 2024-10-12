@@ -61,14 +61,33 @@ If you're new to GitHub and Hacktoberfest, you can check out these resources to 
 - **Avoid excessive use of third-party libraries** unless necessary.
 - **All pull requests must pass code review** and meet repository standards.
 
-## Show Your Support
+## ⭐ Helpful Resources 🛠️
 
-If you find this repository useful, please give it a ⭐! Contributions of all kinds are welcome, and every bit helps improve this project.
+These resources are essential for your journey:
+
+- **[Overview of Open Source](https://kushaldas.hashnode.dev/hacktoberfest-everything-you-need-to-know)**: Gain a comprehensive understanding of contributing to open source.
+- **[Understanding Git Basics](https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control)**: Master the fundamental concepts of Git.
 
 ---
 
-**Happy coding and happy Hacktoberfest!** 👨‍💻👩‍💻🦥  
-Fork the repo and start contributing today! Let's build something amazing together.🚀
+## ⭐ Awesome Contributors 
+
+<a href="https://github.com/skanarul8002/dsa_important_interview_questions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=skanarul8002/dsa_important_interview_questions" />
+</a>
+
+:tada: :confetti_ball: **Happy Contributing!** :confetti_ball: :tada:
+
+   # Happy coding and happy Hacktoberfest!👨‍💻👩‍💻🦥 Show Your Support
+
+
+```
+     _____ _                 _     __   __
+ |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _
+   | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
+   | | | | | | (_| | | | |   <    | | (_) | |_| |
+   |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
+```
 
 
 
