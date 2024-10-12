@@ -1,6 +1,18 @@
-# Welcome to [portfolio-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉
+# Welcome to [portfolio-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉  |  🚨 Must Read: Eligibility Criteria below 🚫
 
 Thank you for checking out this repository! We're excited to have you contribute to Hacktoberfest 2024. Before you get started, please take a moment to read the following rules and guidelines to ensure a smooth contribution process.
+
+## ⭐ How to get started with open source?
+
+<img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/isometric.png" height="290px" align="right"/>
+
+You can refer to the following articles on the basics of Git and Github.
+
+- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SYtPC9tHYyQ)
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## How to Contribute
 
@@ -22,6 +34,7 @@ Thank you for checking out this repository! We're excited to have you contribute
 
 5. **Valid Contributions:**
    - Ensure that your contribution adds real value to the project. Bug fixes, new features, and documentation improvements are welcome!
+   - Make sure you star ⭐ the repo before submitting the PR
 
 ## How to Get Started
 
@@ -42,6 +55,8 @@ If you find this repository useful, please give it a ⭐! Contributions of all k
 
 **Happy coding and happy Hacktoberfest!** 👨‍💻👩‍💻🦥  
 Fork the repo and start contributing today! Let's build something amazing together.🚀
+
+
 
 # Portfolio
 ![Screenshot 2023-09-04 132757](https://github.com/skanarul8002/Portfolio/assets/112712827/d0f9cba8-19da-4ca7-b017-8e216720d8c8)
