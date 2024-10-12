@@ -29,7 +29,7 @@ You can refer to the following articles on the basics of Git and Github.
    - Ensure that your PR/MR is either merged, has an overall approving review, or receives the **“hacktoberfest-accepted”** label to count toward your Hacktoberfest progress.
 
 4. **Review Period:**
-   - Once your PR/MR is created and passing checks, it will go through a **seven-day review period**. Make sure your submission remains compliant throughout this time.
+   - Once your PR/MR is created and passing checks, it will go through a **two-day review period**. Make sure your submission remains compliant throughout this time.
    - Even if Hacktoberfest ends on October 31, PR/MRs still in the seven-day review period may continue into November.
 
 5. **Valid Contributions:**
