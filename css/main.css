@@ -2440,110 +2440,133 @@ header{
  *
  * ------------------------------------------------------------------- 
  */
-footer {
-	padding-bottom: 3rem;
-	font-size: 1.4rem;
-	font-family: "poppins-regular", sans-serif;
+ footer {
+	padding: 3rem 0;
+	font-size: 1.8rem;
+	font-family: "Poppins", sans-serif;
+	background: linear-gradient(135deg, #4a90e2, #9013fe); /* Updated color scheme */
+	color: #000000;
+	position: relative;
+	overflow: hidden;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
+
+
+
 footer a, footer a:visited {
-	color: #FFFFFF;
+	color: #040404;
+	transition: color 0.3s ease;
 }
+
 footer a:hover, footer a:focus {
 	color: #FF0077;
 }
+
 footer .row {
 	max-width: 900px;
+	margin: auto;
 }
+
 footer .social {
 	text-align: right;
 }
+
 footer .footer-social {
 	display: inline-block;
-	font-size: 2.1rem;
+	font-size: 2.4rem;
 	margin: 0;
 	padding: 0;
 	position: relative;
 	top: -.3rem;
 }
+
 footer .footer-social li {
 	display: inline-block;
 	margin: 0 12px;
 	padding: 0;
 }
+
 footer .footer-social li a {
 	color: #FFFFFF;
+	transition: transform 0.3s ease;
 }
+
+footer .footer-social li a:hover {
+	transform: scale(1.2);
+}
+
 footer .copyright span {
 	display: inline-block;
 }
+
 footer .copyright span::after {
 	content: "|";
 	display: inline-block;
-	padding: 0 1rem 0 1.2rem;
-	color: rgba(255, 255, 255, 0.1);
+	padding: 0 1rem;
+	color: rgba(255, 255, 255, 0.5);
 }
+
 footer .copyright span:last-child::after {
 	display: none;
 }
 
 /**
- * responsive:
- * footer
- * -------------------------------------------------------------------
- */
-@media only screen and (max-width:768px) {
+* Responsive Design
+*/
+@media only screen and (max-width: 768px) {
 	footer {
-		text-align: center;
+			text-align: center;
 	}
 	footer .social {
-		display: block;
-		width: 100%;
-		text-align: center;
-		margin-bottom: 1.5rem;
+			display: block;
+			width: 100%;
+			text-align: center;
+			margin-bottom: 1.5rem;
 	}
 	footer .copyright span {
-		display: block;
+			display: block;
 	}
 	footer .copyright span::after {
-		display: none;
+			display: none;
 	}
 }
 
 /**
- * go to top - (_layout.scss)
- * ------------------------------------------------------------------- 
- */
+* Go to Top Button
+*/
 #go-top {
 	position: fixed;
-	bottom: 0;
-	right: 0;
+	bottom: 1rem;
+	right: 1rem;
 	z-index: 600;
 	display: none;
 }
+
 #go-top a {
 	text-decoration: none;
 	border: 0 none;
 	display: block;
-	height: 6.6rem;
+	height: 13.6rem;
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
 	background: #cc005f;
-	color: #FFFFFF;
-	text-align: center;
+	color: #130e0e;
 	text-transform: uppercase;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-webkit-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	transition: background 0.3s ease, transform 0.3s ease;
+	border-radius: 50%;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
+
+#go-top a:hover {
+	background: #000000;
+	transform: scale(1.1);
+}
+
 #go-top a i {
 	font-size: 1.6rem;
 	line-height: inherit;
 }
-#go-top a:hover {
-	background: #000000;
-}
+
 
 /*# sourceMappingURL=main.css.map */
